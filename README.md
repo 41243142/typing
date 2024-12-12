@@ -23,4 +23,4 @@
 
 本專案不僅僅是一個遊戲，更是一個訓練打字速度的學習工具。我們希望透過這個遊戲，讓學習英文打字不再枯燥乏味，而是變成一個有趣且有成就感的過程。
 
-![image](https://github.com/41243142/typing/blob/main/zx1.png)
+![image](https://github.com/41243142/typing/blob/main/zx2.png)
